@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wilsonparson/node-typescript-jest-starter/issues"
   },
-  "homepage": "https://github.com/wilsonparson/node-typescript-jest-starter#readme"
+  "homepage": "https://github.com/wilsonparson/node-typescript-jest-starter#readme",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
 }
