@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-jest-starter",
+  "version": "1.0.0",
+  "description": "A generic starter for Node.js + TypeScript + Jest.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonparson/node-typescript-jest-starter.git"
+  },
+  "keywords": [
+    "Node.js",
+    "TypeScript",
+    "Jest"
+  ],
+  "author": "Wilson Parson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonparson/node-typescript-jest-starter/issues"
+  },
+  "homepage": "https://github.com/wilsonparson/node-typescript-jest-starter#readme"
+}
