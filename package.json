@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest"
+    "start": "tsc && node ./",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint --ignore-path .gitignore ."
   },
   "author": "",
   "license": "MIT",
