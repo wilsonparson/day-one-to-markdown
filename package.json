@@ -16,7 +16,7 @@
     "Jest"
   ],
   "author": "Wilson Parson",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wilsonparson/node-typescript-jest-starter/issues"
   },
