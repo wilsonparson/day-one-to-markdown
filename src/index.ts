@@ -1,1 +1,3 @@
-console.log('Hello, World!');
+import { greet } from './example';
+
+console.log(greet('World'))
