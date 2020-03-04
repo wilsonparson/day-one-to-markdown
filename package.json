@@ -1,5 +1,5 @@
 {
-  "name": "node-typescript-jest-starter",
+  "name": "day-one-to-markdown",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test:watch": "jest --watch",
     "lint": "eslint --ignore-path .gitignore ."
   },
-  "author": "",
+  "author": "Wilson Parson",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^25.1.3",
