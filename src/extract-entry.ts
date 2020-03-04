@@ -1,5 +1,4 @@
 import { Entry } from './types';
-import { extractDate } from './extract-date';
 
 export function extractEntry({
   creationDate,
@@ -8,8 +7,13 @@ export function extractEntry({
   creationDate: string;
   text: string;
 }): Entry {
+  const date = new Date(creationDate);
   return {
-    date: extractDate(creationDate),
+    date: {
+      year: String(date.getUTCFullYear()),
+      month: String(date.getUTCMonth() + 1).padStart(2, '0'),
+      day: String(date.getUTCDate()).padStart(2, '0'),
+    },
     text,
   };
 }

@@ -1,10 +1,8 @@
-export interface EntryDate {
-  year: string;
-  month: string;
-  day: string;
-}
-
 export interface Entry {
-  date: EntryDate;
+  date: {
+    year: string;
+    month: string;
+    day: string;
+  };
   text: string;
 }
