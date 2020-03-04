@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "version": "1.0"
+  },
+  "entries": [
+    {
+      "weather": {
+        "sunsetDate": "2018-09-15T01:38:20Z",
+        "weatherCode": "clear-night",
+        "weatherServiceName": "HAMweather",
+        "temperatureCelsius": 20,
+        "windBearing": 300,
+        "sunriseDate": "2018-09-14T13:08:35Z",
+        "conditionsDescription": "Clear",
+        "pressureMB": 1005,
+        "moonPhase": 0,
+        "visibilityKM": 16.093439102172852,
+        "relativeHumidity": 18,
+        "windSpeedKPH": 7,
+        "windChillCelsius": 20
+      },
+      "creationDeviceType": "iPhone",
+      "text": "# The 7 Habits it Highly Effective People\n- If you want to be more effective, you need to change your character, not your personality or skills.\n- You need to change your paradigm--the way you see the world.\n\n# 1. Be Proactive\nDon’t react automatically to stimuli. You have freedom to choose how you want to act. Commit to a 30-day proactivity challenge.\n\n# 2. Begin with the End in Mind\nCommit time to visualization. Visualize the end you want to achieve before you start. This applies to smaller things like projects as well as to your life.",
+      "creationOSVersion": "11.4.1",
+      "starred": false,
+      "creationDevice": "Wilson's iPhone",
+      "userActivity": {
+        "activityName": "Walking",
+        "stepCount": 3868
+      },
+      "uuid": "AE2C1D4C13424BB7872D1EB23B16DC5B",
+      "creationDate": "2018-09-15T04:01:57Z",
+      "creationOSName": "iOS",
+      "creationDeviceModel": "iPhone10,1",
+      "timeZone": "America/Denver",
+      "location": {
+        "region": {
+          "center": {
+            "longitude": -112.03185272216797,
+            "latitude": 41.489841461181641
+          },
+          "radius": 75
+        },
+        "localityName": "Brigham City",
+        "country": "United States",
+        "longitude": -112.03185272216797,
+        "administrativeArea": "UT",
+        "placeName": "1022 S 950 W",
+        "latitude": 41.489841461181641
+      },
+      "modifiedDate": "2018-11-05T03:45:12Z",
+      "duration": 0
+    }
+  ]
+}
