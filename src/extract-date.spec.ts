@@ -1,4 +1,5 @@
-import { extractDate, EntryDate } from './extract-date';
+import { extractDate } from './extract-date';
+import { EntryDate } from './types';
 
 test('converts ISO date string to EntryDate object', () => {
   const received = '2018-09-15T04:01:57Z';

@@ -1,8 +1,4 @@
-export interface EntryDate {
-  year: string;
-  month: string;
-  day: string;
-}
+import { EntryDate } from './types';
 
 export function extractDate(creationDate: string): EntryDate {
   const date = new Date(creationDate);
